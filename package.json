@@ -1,0 +1,17 @@
+{
+  "name": "md-js",
+  "version": "1.0.0",
+  "description": "An experiment in creating a blog powered by markdown",
+  "main": "index.js",
+  "dependencies": {
+    "marked": "^0.3.5"
+  },
+  "devDependencies": {
+    "gulp-markdown": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jefferson Lam",
+  "license": "ISC"
+}
